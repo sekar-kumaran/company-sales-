@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-This is a comprehensive data science portfolio project demonstrating advanced analytics and machine learning capabilities for sales forecasting and business intelligence. The project showcases end-to-end data science workflow from exploratory data analysis through machine learning model deployment.
+This is a comprehensive data science portfolio project demonstrating advanced analytics and machine learning capabilities for sales forecasting and business intelligence. The project showcases end-...
 
 ### 🚀 Key Features
 
@@ -106,6 +106,7 @@ streamlit run streamlit_sales_app.py
 Open your browser and navigate to:
 - **Local URL**: `http://localhost:8501`
 - **Network URL**: Available for team sharing
+- **Deployed App**: https://vif-customersalesdata.streamlit.app/
 
 ## 📈 Analysis Highlights
 
