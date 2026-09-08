@@ -1,4 +1,4 @@
-# Company Sales Data Analytics - Portfolio Project
+# Company Sales Data Analytics
 
 ## 🎯 Project Overview
 
@@ -228,25 +228,6 @@ Open your browser and navigate to:
 - [ ] **Automated Reporting**: Scheduled business intelligence reports
 - [ ] **Mobile Dashboard**: Responsive design for mobile access
 
-## 📞 Contact & Portfolio
-
-This project demonstrates comprehensive data science capabilities suitable for:
-- **Senior Data Scientist** roles
-- **Machine Learning Engineer** positions
-- **Business Intelligence** specialist roles
-- **Analytics Consultant** opportunities
-
-### Portfolio Highlights
-🎯 **Business Impact**: Demonstrable ROI through data-driven insights  
-🤖 **Technical Depth**: Multiple ML algorithms and deployment-ready solutions  
-📊 **Communication Skills**: Professional visualizations and stakeholder presentations  
-🚀 **Production Readiness**: End-to-end pipeline from analysis to deployment  
-
 ---
-
-**📧 Contact**: [Your Email]  
-**🔗 LinkedIn**: [Your LinkedIn Profile]  
-**💻 GitHub**: [Your GitHub Profile]  
-**📊 Portfolio**: [Your Portfolio Website]
 
 *This project showcases real-world data science problem-solving capabilities and demonstrates readiness for senior data science roles in business environments.*
